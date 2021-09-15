@@ -6,12 +6,7 @@
 
 -👨🏻‍🎓 Estudante de ciência da computação na UESC-BA
 
-
-
-
-
-
-
+##
 
 <div>
   <a href="https://github.com/Kaymoreira">
