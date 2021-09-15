@@ -1,11 +1,9 @@
 ## Ola! Eu sou Kayque Moreira
+- 💻 Front-end web development
 
--💻 Front-end web development
+- 👨🏻‍💻 Atualmente estudando react
 
--👨🏻‍💻 Atualmente estudando react
-
--👨🏻‍🎓 Estudante de ciência da computação na UESC-BA
-
+- 👨🏻‍🎓 Estudante de ciência da computação na UESC-BA
 ##
 
 <div>
