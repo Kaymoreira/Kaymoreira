@@ -1,7 +1,7 @@
 ## Ola! Eu sou Kayque Moreira
-- 💻 Front-end web development
+- 💻 QA Tester at CEPEDI
 
-- 👨🏻‍💻 Currently studying react
+- 👨🏻‍💻 Currently studying Cypress
 
 - 👨🏻‍🎓 Computer science student at UESC-BA
 ##
