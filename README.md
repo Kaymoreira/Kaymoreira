@@ -2,15 +2,15 @@
 
 ### 🚀 Software Quality & Test Automation Engineer
 
-[cite_start]Sou **Engenheiro de Qualidade de Software** graduado em **Ciência da Computação** pela UESC. [cite_start]Com mais de 3 anos e meio de experiência, sou especialista em **Automação de Testes (E2E e API)** e arquitetura de testes escaláveis[cite: 8, 9].
+Sou **Engenheiro de Qualidade de Software** graduado em **Ciência da Computação** pela UESC. Com mais de 3 anos e meio de experiência, sou especialista em **Automação de Testes (E2E e API)** e arquitetura de testes escaláveis.
 
-[cite_start]Atualmente, foco na construção de frameworks robustos e na integração de qualidade em pipelines de CI/CD para garantir entregas ágeis e estáveis[cite: 11, 21].
+Atualmente, foco na construção de frameworks robustos e na integração de qualidade em pipelines de CI/CD para garantir entregas ágeis e estáveis.
 
-- [cite_start]🔭 **Atualmente:** Analista de Testes / QA na **CEPEDI** focado em Automação e DevOps[cite: 14, 19].
-- [cite_start]🎓 **Formação:** Bacharel em Ciência da Computação (UESC)[cite: 35].
-- [cite_start]💻 **Stack Principal:** Java, JavaScript, Python[cite: 25].
-- [cite_start]⚙️ **Automação & QA:** Selenium, Cypress, Rest Assured, Postman[cite: 2, 25].
-- [cite_start]🔄 **DevOps & CI/CD:** Azure DevOps, Jenkins, Git[cite: 11, 41].
+- 🔭 **Atualmente:** Analista de Testes / QA na **CEPEDI** focado em Automação e DevOps.
+- 🎓 **Formação:** Bacharel em Ciência da Computação (UESC).
+- 💻 **Stack Principal:** Java, JavaScript, Python.
+- ⚙️ **Automação & QA:** Selenium, Cypress, Rest Assured, Postman.
+- 🔄 **DevOps & CI/CD:** Azure DevOps, Jenkins, Git.
 
 ---
 
@@ -23,7 +23,7 @@
   <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   
   <img align="center" alt="Selenium" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Cypress" height="40" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
+  <img align="center" alt="Cypress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">
   
   <img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
