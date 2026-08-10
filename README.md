@@ -1,67 +1,26 @@
 ## Olá! Eu sou Kayque Moreira 👋
 
-### 🚀 Software Quality & Test Automation Engineer
+### 🚀 Quality Engineer | Automação, Performance & Quality Gates em CI/CD
 
-Sou **Engenheiro de Qualidade de Software** graduado em **Ciência da Computação** pela UESC. Com mais de 3 anos e meio de experiência, sou especialista em **Automação de Testes (E2E e API)** e arquitetura de testes escaláveis.
+Sou Engenheiro de Qualidade de Software graduado em Ciência da Computação pela UESC, com 5 anos de experiência em qualidade de software. Atuo nas duas pontas da esteira de entrega: definindo qualidade antes do código (DoR, cenários de teste e revisão de especificação) e garantindo depois, por gate automatizado em CI/CD.
 
-Atualmente, foco na construção de frameworks robustos e na integração de qualidade em pipelines de CI/CD para garantir entregas ágeis e estáveis.
+Especialista em automação E2E e de API com Java (Selenium, Rest Assured) e JavaScript/TypeScript (Cypress), BDD com Cucumber/Gherkin, testes de carga e performance com k6, e validação de dados em SQL. Construi do zero o bloco de analise estatica e seguranca do PR check de microservicos serverless em AWS CodeBuild/CodePipeline.
 
-- 🔭 **Atualmente:** Analista de Testes / QA na **CEPEDI** focado em Automação e DevOps.
-- 🎓 **Formação:** Bacharel em Ciência da Computação (UESC).
-- 💻 **Stack Principal:** Java, JavaScript, Python.
-- ⚙️ **Automação & QA:** Selenium, Cypress, Rest Assured, Postman.
-- 🔄 **DevOps & CI/CD:** Azure DevOps, Jenkins, Git.
+Momento atual: aberto a novas oportunidades remotas em QA, automacao de testes e engenharia de qualidade. Ultima posicao: Quality Engineer II na Omnichat, pipeline de qualidade em AWS CodeBuild/CodePipeline, testes de carga com k6 e shift left.
 
----
+Formacao: Bacharel em Ciencia da Computacao (UESC). Stack principal: Java, JavaScript, TypeScript, SQL. Automacao e QA: Selenium, Cypress, Rest Assured, Postman, Bruno, k6. CI/CD e Quality Gates: AWS CodeBuild, AWS CodePipeline, Azure DevOps, Jenkins, SonarQube, ESLint, gitleaks. IA aplicada: desenvolvimento assistido por IA com verificacao independente, spec-driven development, MCP.
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  
-  <img align="center" alt="Selenium" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Cypress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">
-  
-  <img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
-
-<br>
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![Selenium](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg) ![Cypress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg) ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg) ![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
 
 ### 📊 Estatísticas do GitHub
 
-<div align="left">
-  <a href="https://github.com/Kaymoreira">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kaymoreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaymoreira&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaymoreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Kaymoreira)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaymoreira&layout=compact&langs_count=7&theme=radical)](https://github.com/Kaymoreira)
 
-<br>
+### 📬 Vamos nos conectar?
 
-### 📫 Vamos nos conectar?
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kaymoreira/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:kayque221023@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/kaymoreira/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.twitch.tv/kayspwn" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-</div>
-
-<br>
-
-![Snake animation](https://github.com/Kaymoreira/Kaymoreira/blob/output/github-contribution-grid-snake.svg)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23007BB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaymoreira/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayque221023@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaymoreira/)
