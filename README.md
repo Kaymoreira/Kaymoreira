@@ -16,8 +16,8 @@ Formacao: Bacharel em Ciencia da Computacao (UESC). Stack principal: Java, JavaS
 
 ### 📊 Estatísticas do GitHub
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaymoreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Kaymoreira)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaymoreira&layout=compact&langs_count=7&theme=radical)](https://github.com/Kaymoreira)
+[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kaymoreira&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Kaymoreira)
+[![Top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaymoreira&layout=compact&langs_count=7&theme=radical)](https://github.com/Kaymoreira)
 
 ### 📬 Vamos nos conectar?
 
