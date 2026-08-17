@@ -1,58 +1,68 @@
-## Olá! Eu sou Kayque Moreira 👋
+# Olá! Eu sou Kayque Moreira 👋
 
-### 🚀 Quality Engineer | Automação, Performance & Quality Gates em CI/CD
+**Quality Engineer** · Automação E2E & API · Performance · Quality Gates em CI/CD
 
-Sou Engenheiro de Qualidade de Software graduado em Ciência da Computação pela UESC, com 5 anos de experiência em qualidade de software. Atuo nas duas pontas da esteira de entrega: definindo qualidade antes do código (DoR, cenários de teste e revisão de especificação) e garantindo depois, por gate automatizado em CI/CD.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaymoreira/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kayque221023@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kaymoreira/)
 
-Especialista em automação E2E e de API com Java (Selenium, Rest Assured) e JavaScript/TypeScript (Cypress), BDD com Cucumber/Gherkin, testes de carga e performance com k6, e validação de dados em SQL. Construi do zero o bloco de analise estatica e seguranca do PR check de microservicos serverless em AWS CodeBuild/CodePipeline.
+> 🟢 **Aberto a oportunidades remotas** em QA, automação de testes e engenharia de qualidade.
 
-Momento atual: aberto a novas oportunidades remotas em QA, automacao de testes e engenharia de qualidade. Ultima posicao: Quality Engineer II na Omnichat, pipeline de qualidade em AWS CodeBuild/CodePipeline, testes de carga com k6 e shift left.
+<br>
 
-Formacao: Bacharel em Ciencia da Computacao (UESC). Stack principal: Java, JavaScript, TypeScript, SQL. Automacao e QA: Selenium, Cypress, Rest Assured, Postman, Bruno, k6. CI/CD e Quality Gates: AWS CodeBuild, AWS CodePipeline, Azure DevOps, Jenkins, SonarQube, ESLint, gitleaks. IA aplicada: desenvolvimento assistido por IA com verificacao independente, spec-driven development, MCP.
+## 🧭 Sobre
 
-### 🛠️ Tecnologias e Ferramentas
+Engenheiro de Qualidade de Software, bacharel em Ciência da Computação pela UESC, com 5 anos de experiência. Atuo nas duas pontas da esteira de entrega: definindo qualidade **antes** do código (DoR, cenários de teste, revisão de especificação) e garantindo **depois**, por gate automatizado em CI/CD.
 
-### 🧪 QA & Test Automation
+Especialista em automação E2E e de API com Java (Selenium, Rest Assured) e JavaScript/TypeScript (Cypress), BDD com Cucumber/Gherkin, testes de carga com k6 e validação de dados em SQL. Na Omnichat, como Quality Engineer II, construí do zero o bloco de análise estática e segurança do PR check de microsserviços serverless em AWS CodeBuild/CodePipeline.
+
+<br>
+
+## 🛠️ Stack
+
+**Testes & Automação**
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cypress,selenium,postman,graphql,gherkin,jest,vitest&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cypress,selenium,postman,jest,gherkin,graphql&perline=6" />
 </a>
 
-### 💻 Languages & Frameworks
+**Linguagens & Runtime**
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,cpp,c,html,css,htmx,express,fastapi,nestjs,nodejs,bun&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,nodejs,express&perline=6" />
 </a>
 
-### ⚙️ DevOps, Databases & Tools
+**CI/CD, Cloud & Dados**
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,docker,kubernetes,aws,gcp,azure,postgres,mysql,mongodb,redis,sentry,grafana,prometheus,vscode,idea,vim&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,github,postgres,mysql,mongodb,redis,grafana,prometheus&perline=6" />
 </a>
 
-### 🤖 AI-Driven Quality Engineering & Context Engineering
+<br>
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+## 🤖 Engenharia de Qualidade com IA
 
-* **Spec-Driven Development & Context Engineering:** Validação e estruturação de requisitos através do protocolo MCP (*Model Context Protocol*), garantindo que agentes e LLMs tenham contexto preciso do domínio e da arquitetura do projeto.
-* **Test Harnessing & AI Skills:** Criação de *harnesses* de teste configuráveis para avaliação de LLMs, criação de custom skills reutilizáveis e prompts direcionados para automação E2E, geração de mocks e cenários de borda.
-* **Verificação Independente & Shift-Left QA:** Desenvolvimento assistido por IA com auditoria humana rigorosa, qualidade orientada a contratos, análise estática automatizada em pipelines e prevenção de alucinações de código no gate de CI/CD.
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 
-### 📊 Estatísticas do GitHub
+**Spec-Driven Development & Context Engineering** — Validação e estruturação de requisitos via protocolo MCP, garantindo que agentes e LLMs tenham contexto preciso do domínio e da arquitetura.
 
-[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kaymoreira&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Kaymoreira)
-[![Top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaymoreira&layout=compact&langs_count=7&theme=radical)](https://github.com/Kaymoreira)
+**Test Harnessing & AI Skills** — Harnesses de teste configuráveis para avaliação de LLMs, custom skills reutilizáveis e prompts direcionados para automação E2E, geração de mocks e cenários de borda.
 
-### 🐍 Jogo da Cobrinha (Contribuições)
+**Verificação Independente & Shift-Left QA** — Desenvolvimento assistido por IA com auditoria humana rigorosa, qualidade orientada a contratos, análise estática em pipeline e prevenção de alucinação de código no gate de CI/CD.
+
+<br>
+
+## 📊 GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaymoreira&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaymoreira&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaymoreira/Kaymoreira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaymoreira/Kaymoreira/output/github-contribution-grid-snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/Kaymoreira/Kaymoreira/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Kaymoreira/Kaymoreira/output/github-contribution-grid-snake.svg">
 </picture>
-
-### 📬 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23007BB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaymoreira/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayque221023@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaymoreira/)
