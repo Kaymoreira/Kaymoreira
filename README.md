@@ -12,7 +12,20 @@ Formacao: Bacharel em Ciencia da Computacao (UESC). Stack principal: Java, JavaS
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Tecnologias](https://skillicons.dev/icons?i=java,js,ts,python,selenium,cypress,aws,jenkins,azure,postgres,mysql,react)
+### 🧪 QA & Test Automation
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cypress,selenium,postman,graphql,gherkin,jest,vitest&perline=10" />
+</a>
+
+### 💻 Languages & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,cpp,c,html,css,htmx,express,fastapi,nestjs,nodejs,bun&perline=10" />
+</a>
+
+### ⚙️ DevOps, Databases & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,docker,kubernetes,aws,gcp,azure,postgres,mysql,mongodb,redis,sentry,grafana,prometheus,vscode,idea,vim&perline=10" />
+</a>
 
 ### 📊 Estatísticas do GitHub
 
