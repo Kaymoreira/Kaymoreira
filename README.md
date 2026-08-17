@@ -27,6 +27,17 @@ Formacao: Bacharel em Ciencia da Computacao (UESC). Stack principal: Java, JavaS
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,docker,kubernetes,aws,gcp,azure,postgres,mysql,mongodb,redis,sentry,grafana,prometheus,vscode,idea,vim&perline=10" />
 </a>
 
+### 🤖 AI-Driven Quality Engineering & Context Engineering
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+* **Spec-Driven Development & Context Engineering:** Validação e estruturação de requisitos através do protocolo MCP (*Model Context Protocol*), garantindo que agentes e LLMs tenham contexto preciso do domínio e da arquitetura do projeto.
+* **Test Harnessing & AI Skills:** Criação de *harnesses* de teste configuráveis para avaliação de LLMs, criação de custom skills reutilizáveis e prompts direcionados para automação E2E, geração de mocks e cenários de borda.
+* **Verificação Independente & Shift-Left QA:** Desenvolvimento assistido por IA com auditoria humana rigorosa, qualidade orientada a contratos, análise estática automatizada em pipelines e prevenção de alucinações de código no gate de CI/CD.
+
 ### 📊 Estatísticas do GitHub
 
 [![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kaymoreira&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Kaymoreira)
