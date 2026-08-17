@@ -32,6 +32,14 @@ Formacao: Bacharel em Ciencia da Computacao (UESC). Stack principal: Java, JavaS
 [![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kaymoreira&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Kaymoreira)
 [![Top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaymoreira&layout=compact&langs_count=7&theme=radical)](https://github.com/Kaymoreira)
 
+### 🐍 Jogo da Cobrinha (Contribuições)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaymoreira/Kaymoreira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaymoreira/Kaymoreira/output/github-contribution-grid-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/Kaymoreira/Kaymoreira/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 📬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23007BB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaymoreira/)
